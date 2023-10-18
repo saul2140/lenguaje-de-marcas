@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE historical-events>
+
+<events>
+    <event description="IBM introduces the PC">
+        <date>
+            <day>12</day>
+            <month>Agosto</month>
+            <year>1981</year>
+        </date>
+    </event>
+    <event description="Google is founded">
+        <date>
+            <day>4</day>
+            <month>Septiembre</month>
+            <year>1998</year>
+        </date>
+    </event>
+    <event description="Facebook is founded">
+        <date>
+            <day>4</day>
+            <month>Febrero</month>
+            <year>2004</year>
+        </date>
+    </event>
+</events>

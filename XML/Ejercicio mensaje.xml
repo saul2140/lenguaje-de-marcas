@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Mensaje>
+
+<message>
+    <sender>Remitente
+        <name>Alfredo Reino</name>
+        <email>alf@bium.com</email>
+    </sender>
+    <receiver>
+        <name>Bill Clinton</name>
+        <emal>president@whitehouse.gov</emal>
+    </receiver>
+    <subject>Hola Bill</subject>
+    <text>
+        <paragraph>Hello, how are you?</paragraph>
+        <paragraph>It's been a long time since you last wrote. Let's see if you call, and we can meet up soon.</paragraph>
+        <paragraph>Best regards.</paragraph>
+    </text>
+</message>

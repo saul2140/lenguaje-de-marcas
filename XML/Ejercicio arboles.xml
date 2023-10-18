@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Arboles>
+
+<trees>
+        <tree>Acer monspessulanum
+            <common-name>Montpellier Maple, Lesser Maple.</common-name>
+            <vegetation>Deciduous.</vegetation>
+            <height>6 to 10 meters.</height>
+            <shape-structure>Spherical crown. Straight main trunk with branches. Drooping foliage.</shape-structure>
+            <spring-color>Bright green upper side, whitish green underside.</spring-color>
+            <Frost-Resistance>Strong frost resistance (up to -15°C)</Frost-Resistance>
+        </tree>
+        <tree>Olea europea
+            <common-name>Olive Tree</common-name>
+            <vegetation>Evergreen</vegetation>
+            <height>8 to 15 meters </height>
+            <shape-structure>Irregular crown. Irregular main trunk with bifurcations..</shape-structure>
+        </tree>
+        <tree>Ramaje tortuoso
+            <spring-color>Dark green upper side, silvery green underside</spring-color>
+            <Frost-Resistance>Moderate frost resistance (up to -10°C)</Frost-Resistance>
+        </tree>
+        <tree>Platanus orientalis
+            <common-name>Plane Tree</common-name>
+            <vegetation>Deciduous</vegetation>
+            <height>20 to 25 meters </height>
+            <shape-structure>Ovoid crown. Straight main trunk. Expansive branching.</shape-structure>
+            <spring-color>Medium green upper side, light green underside</spring-color>
+            <Autumn-Color>Ochre</Autumn-Color>
+            <Frost-Resistance>Strong frost resistance (up to -20°C)</Frost-Resistance>
+        </tree>
+        <tree>Quercus ilex
+            <common-name>Holm Oak</common-name>
+            <vegetation>Evergreen</vegetation>
+            <height>Around 25 meters </height>
+            <shape-structure>Spherical or irregularly elliptical crown. Straight main trunk. Twisted branches. </shape-structure>
+            <spring-color>Silvery in young leaves. In mature leaves, dark green upper side, silvery underside. </spring-color>
+            <Frost-Resistance>Strong frost resistance (down to -15°C)</Frost-Resistance>
+        </tree>
+    </trees>

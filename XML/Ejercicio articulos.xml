@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Articulos>
+
+<store>
+    <product name="portatil">
+        <category>Electrónica</category>
+        <features>
+            <feature name="marca" value="lenovo"/>
+            <feature name="procesador" value="Intel Core i7"/>
+            <feature name="RAM" value="16GB"/>
+            <feature name="almacenamiento" value="512GB SSD"/>
+        </features>
+    </product>
+    
+    <product name="zapatos deportivos">
+        <category>Ropa y calzado</category>
+        <features>
+            <feature name="marca" value="nike"/>
+            <feature name="talla" value="40"/>
+            <feature name="color" value="negro"/>
+            <feature name="genero" value="hombre"/>
+        </features>
+    </product>
+    
+    <product name="cafetera">
+        <category>kitchen products</category>
+        <features>
+            <feature name="marca" value="nespresso"/>
+            <feature name="type" value="servicio individual"/>
+            <feature name="capacidad" value="12 tazas"/>
+            <feature name="color" value="plateado"/>
+        </features>
+    </product>
+</store>

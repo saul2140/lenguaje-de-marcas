@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE dealership>
+
+<catalog>
+    <catalog-car>
+        <brand country="Germani">Audi
+            <cars>
+                <car>
+                    <info>
+                        <license-plate>6375 HST</license-plate>
+                        <year-reg>2008</year-reg>
+                        <model>A2</model>
+                        <seats>5</seats>
+                        <cc>120</cc>
+                    </info>
+                </car>
+                <car>
+                    <info>
+                        <license-plate>8460 LDJ</license-plate>
+                        <year-reg>2013</year-reg>
+                        <model>A3</model>
+                        <seats>5</seats>
+                        <cc>140</cc>
+                    </info>
+                </car>
+            </cars>
+        </brand>
+        <brand country="France">peugeot
+            <cars>
+                <car>
+                    <info>
+                        <license-plate>9573 PTL</license-plate>
+                        <year-reg>2005</year-reg>
+                        <model>B3</model>
+                        <seats>7</seats>
+                        <cc>110</cc>
+                    </info>
+                </car>
+                <car>
+                    <info>
+                        <license-plate>8462 RMA</license-plate>
+                        <year-reg>2012</year-reg>
+                        <model>C2</model>
+                        <seats>2</seats>
+                        <cc>130</cc>
+                    </info>
+                </car>
+            </cars>
+        </brand>
+        <brand country="Italy">Citroen
+            <cars>
+                <car>
+                    <info>
+                        <license-plate>0482 DHY</license-plate>
+                        <year-reg>2010</year-reg>
+                        <model>E8</model>
+                        <seats>5</seats>
+                        <cc>150</cc>
+                    </info>
+                </car>
+                <car>
+                    <info>
+                        <license-plate>8472 OET</license-plate>
+                        <year-reg>2020</year-reg>
+                        <model>N2</model>
+                        <seats>2</seats>
+                        <cc>180</cc>
+                    </info>
+                </car>
+            </cars>
+        </brand>
+        <brand country="England">Mentos
+            <cars>
+                <car>
+                    <info>
+                        <license-plate>9372 UHC</license-plate>
+                        <year-reg>2017</year-reg>
+                        <model>C5</model>
+                        <seats>5</seats>
+                        <cc>170</cc>
+                    </info>
+                </car>
+                <car>
+                    <info>
+                        <license-plate>8364 MWF</license-plate>
+                        <year-reg>2005</year-reg>
+                        <model>L2</model>
+                        <seats>5</seats>
+                        <cc>120</cc>
+                    </info>
+                </car>
+            </cars>
+        </brand>
+        <brand country="Poland">Palmas
+            <cars>
+                <car>
+                    <info>
+                        <license-plate>2740 PLD</license-plate>
+                        <year-reg>2013</year-reg>
+                        <model>R4</model>
+                        <seats>5</seats>
+                        <cc>140</cc>
+                    </info>
+                </car>
+                <car>
+                    <info>
+                        <license-plate>7354 DLC</license-plate>
+                        <year-reg>2009</year-reg>
+                        <model>T2</model>
+                        <seats>5</seats>
+                        <cc>150</cc>
+                    </info>
+                </car>
+            </cars>
+        </brand>
+    </catalog-car>
+</catalog>

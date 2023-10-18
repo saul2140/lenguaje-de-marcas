@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE book>
+
+<library>
+    
+    <book author="Manuen Perez">
+        <title>El arroyo sin agua</title>
+            <info>
+                <num-pages>245</num-pages>
+                <publisher>anaya</publisher>
+                    <chapters>
+                        <chapter>
+                            <info>
+                                <title>Primera sequia</title>
+                                <pages>
+                                    <start>3</start>
+                                    <end>35</end>
+                                </pages>
+
+                            </info>
+                        </chapter>
+                        <chapter>
+                            <info>
+                                <title>Segunda sequia</title>
+                                <pages>
+                                    <start>36</start>
+                                    <end>63</end>
+                                </pages>
+                            </info>
+                        </chapter>
+                        <chapter>
+                            <info>
+                                <title>Tercera sequia</title>
+                                <pages>
+                                    <start>64</start>
+                                    <end>93</end>
+                                </pages>
+                            </info>
+                        </chapter>
+                        <chapter>
+                            <info>
+                                <title>Cuarta sequia</title>
+                                <pages>
+                                    <start>94</start>
+                                    <end>121</end>
+                                </pages>
+                            </info>
+                        </chapter>
+                        <chapter>
+                            <info>
+                                <title>Quinta sequia</title>
+                                <pages>
+                                    <start>122</start>
+                                    <end>154</end>
+                                </pages>
+                            </info>
+                        </chapter>
+                        <chapter>
+                            <info>
+                                <title>sexta sequia</title>
+                                <pages>
+                                    <start>154</start>
+                                    <end>189</end>
+                                </pages>
+                            </info>
+                        </chapter>
+                    </chapters>
+            </info>
+    </book>
+</library>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE shopping-center>
+
+<shopping-center>
+        <store name="HyM">
+            <plots>1
+                <meters>53</meters>
+            </plots>
+            <manager>
+                <name>Juan Perez Hernandez</name>
+                <phone>692846394</phone>
+                <NSS>9711907m</NSS>
+            </manager>
+        </store>
+        <store name="CyA">
+            <plots>2
+                <meters>82 y 42</meters>
+            </plots>
+            <manager>
+                <name>Candela Lopez Manzano</name>
+                <phone>737592750</phone>
+                <NSS>9648257g</NSS>
+            </manager>
+        </store>
+        <store name="starbucks">
+            <plots>1
+                <meters>40</meters>
+            </plots>
+            <manager>
+                <name>Erica osorio Gamero</name>
+                <phone>867451294</phone>
+                <NSS>4835275h</NSS>
+            </manager>
+        </store>
+        <store name="desigual">
+            <plots>1
+                <meters>56</meters>
+            </plots>
+            <manager>
+                <name>Manuel Domingez Perez</name>
+                <phone>513869467</phone>
+                <NSS>7492756c</NSS>
+            </manager>
+        </store>
+        <store name="inside">
+            <plots>2
+                <meters>46 y 43</meters>
+            </plots>
+            <manager>
+                <name>Luis Grillo Garrido</name>
+                <phone>385960253</phone>
+                <NSS>9462743f</NSS>
+            </manager>
+        </store>
+        <store name="sprinter">
+            <plots>3
+                <meters>38, 41 y 50</meters>
+            </plots>
+            <manager>
+                <name>Concepcion Garcia Estepa</name>
+                <phone>649274615</phone>
+                <NSS>1947385k</NSS>
+            </manager>
+        </store>
+        <store name="zara">
+            <plots>1
+                <meters>63</meters>
+            </plots>
+            <manager>
+                <name>Silvia Corbacho Hernandez</name>
+                <phone>268368936</phone>
+                <NSS>6725724b</NSS>
+            </manager>
+        </store>
+        <store name="primark">
+            <plots>1
+                <meters feature="2-floors">73</meters>
+            </plots>
+            <manager>
+                <name>Enzo Alvarez Linares</name>
+                <phone>835673578</phone>
+                <NSS>3574572l</NSS>
+            </manager>
+        </store>
+        <store name="PyB">
+            <plots>1
+                <meters>39</meters>
+            </plots>
+            <manager>
+                <name>Miriam Houssa Lopez</name>
+                <phone>724851649</phone>
+                <NSS>1097295c</NSS>
+            </manager>
+        </store>
+        <store name="Game">
+            <plots>2
+                <meters>30 y 38</meters>
+            </plots>
+            <manager>
+                <name>Jesus Valle Dominguez</name>
+                <phone>759258395</phone>
+                <NSS>7592648d</NSS>
+            </manager>
+        </store>
+</shopping-center>

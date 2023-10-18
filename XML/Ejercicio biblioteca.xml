@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Biblioteca>
+
+<library>
+    <fiction>
+        <book title="El Gran Gatsby" author="F. Scott Fitzgerald" year="1925">
+     
+            <description>Una novela clásica que representa la Era del Jazz en América.</description>
+        </book>
+    </fiction>
+    <education>
+        <book title="Introducción a la Programación" author="John Smith" year="2020">
+            
+            <description>Un libro de texto introductorio sobre conceptos de programación.</description>
+        </book>
+    </education>
+    <kitchen>
+        <book title="El Arte de Cocinar" author="Julia Child" year="1961">
+            
+            <description>Una obra maestra culinaria de la renombrada chef.</description>
+        </book>
+    </kitchen>
+    <science>
+        <book title="La Historia de la Ciencia" author="Stephen Hawking" year="2005">
+            
+            <description>Una exploración de la evolución del pensamiento científico.</description>
+        </book>
+    </science>
+</library>

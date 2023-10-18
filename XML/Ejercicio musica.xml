@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Musica>
+
+<musicCatalog>
+    
+    <song title="Smooth" artist="Santana con Rob Thomas" year="1999">
+        <genres>
+            <genre>Rock Latino</genre>
+            <genre>Pop Rock</genre>
+        </genres>
+    </song>
+    <song title="Imagine" artist="John Lennon" year="1971">
+        <genres>
+            <genre>Rock</genre>
+            <genre>Pop</genre>
+        </genres>
+    </song>
+
+    <song title="Despacito" artist="Luis Fonsi ft. Daddy Yankee" year="2017">
+        <genres>
+            <genre>Reggaetón</genre>
+            <genre>Pop Latino</genre>
+        </genres>
+    </song>
+
+    <song title="The Power of the Mind" artist="Headhunterz" year="2007">
+        <genres>
+            <genre>Hardstyle</genre>
+            <genre>Electrónica</genre>
+        </genres>
+    </song>
+  
+</musicCatalog>
