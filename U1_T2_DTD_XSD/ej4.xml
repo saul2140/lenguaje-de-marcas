@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Clase>
+<clase codigo="">
+    <profesor>Dr. Smith</profesor>
+    <profesor>Prof. Johnson</profesor>
+    <profesor>Dr. Rodriguez</profesor>
+    <alumnos>
+        <alumno id="">
+            <nombre></nombre>
+            <edad></edad>
+            <curso></curso>
+        </alumno>
+        <alumno id="">
+            <nombre></nombre>
+            <edad></edad>
+            <curso></curso>
+        </alumno>
+    </alumnos>
+</clase>
