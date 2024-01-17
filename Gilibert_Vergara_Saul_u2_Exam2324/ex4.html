@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<head>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width-device-width, initial scale=1.0">
+<title>Ejercicio 4</title>
+ <style>
+    td{width: 70%;border: none;}
+    table{width: 95% ; border-color: yellow;}
+    input{width: 70%; margin-left: 15%;}
+    select{width: 70%; margin-left: 15%;}
+    th{border: none}
+    button{background-color: yellow;}
+ </style>
+</head>
+<body>
+    <form>
+        <table border="1px">
+            <tr id="1">
+                <th>Leave Form</th>
+                    <th>
+                     <select name="actions" id="more">
+                        <option disable selected>More Actions</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                     </select>
+                    </th>
+            </tr>
+        <br>
+            <tr>
+                <th colspan="2">Employee Email</th>
+                <td><input placeholder="appuser@zohocreator.com" type="email" name="correo" ></td>
+            </tr>
+            <tr>
+                <th colspan="2">Employee Id</th>
+                <td><input placeholder="232" type="number"></td>
+            </tr>
+            <tr>
+                <th colspan="2">Employee name</th>
+                <td><input placeholder="appuser" type="text"></td>
+            </tr>
+            <tr>
+                <th colspan="2">Leave type</th>
+                <td colspan=>
+                    <select>
+                        <option disable selected>-select-</option>
+                        <option>Car</option>
+                        <option>Plane</option>
+                        <option>Bus</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">From</th>
+                <td><input type="date"></td>
+            </tr>
+            <tr>
+                <th colspan="2">To</th>
+                <td><input type="date"></td>
+            </tr>
+            <tr>
+                <th colspan="2">Nº of Days</th>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <th colspan="2">Reason</th>
+                <td rowspan=""><input type="text"></td>
+            </tr>
+            <tr>
+                <th><button type="submit">Submit</button></th>
+                <th><button type="reset">Reset</button></th>
+            </tr>
+        </table> 
+           
+        
+    </form>
+</body>
