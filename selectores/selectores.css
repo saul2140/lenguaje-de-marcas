@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+
+tr td:first-child, tr th:first-child {
+    background-color: red;
+    color: white
+}
+
+.GB {
+    font-size: 1.5em;
+    text-align: center;
+    background-color: gray;
+}
+
+#carga{
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    background-color: yellow; 
+}
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+#capacidad {
+    font-size: 1.5em;
+    text-align: center;
+    background-color: gray;
+}
+
+#azul{
+    background-color: blue;
+}
+
+#blanco{
+    background-color: white;
+}
